@@ -1,10 +1,9 @@
 {
   "Spørgsmål": [
-        "Personen til (Side) for (Spiller) skal udføre (Udfordring)",
-        "(Spiller) finder på et kampråb, som alle skal skrige",
-        "Næste person til at sige (Ord) skal udføre (Udfordring)",
-        "Næste person til at sige (Ord) skal må tildele en spiller (Udfordring)",
-        "This is some tempary text that is ment to simulate a long question. Not to contain correct grammar. So a bit more text wont hurt. It will simply just help determin",
-        "This is some tempary text that is ment to simulate a long question. Not to contain correct grammar. So a bit more text"
+        "Det hold der har mest (Farve) på skal udføre (Udfordring)",
+        "(Hold1) vælger en spiller som skal udføre (Udfordring)",
+        "(Hold1) og (Hold2)  vælger hver en spiller som (Konkurrance)",
+        "Hvis du har en dating app installeret på din telefon lige nu, skal du udføre(Udfordring)",
+        "(Hold1) skal gætte hvad (Hold2) tager mellem (Spørgsmål)"
     ]
 }
